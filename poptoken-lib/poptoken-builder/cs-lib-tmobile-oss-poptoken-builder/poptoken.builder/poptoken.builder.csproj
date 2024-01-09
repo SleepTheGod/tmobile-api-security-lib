@@ -36,8 +36,8 @@ Add import RSA public / private keys and encrypted private key with password opt
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="6.12.2" />
-    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.12.2" />
+    <PackageReference Include="Microsoft.IdentityModel.JsonWebTokens" Version="6.34.0" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="6.34.0" />
   </ItemGroup>
 
   <ItemGroup>
